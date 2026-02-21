@@ -1,3 +1,7 @@
 *.рус
 cache/
 
+img/
+bloknot.md
+md-instu*
+screen-instruction.md

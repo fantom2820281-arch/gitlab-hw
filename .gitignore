@@ -1,3 +1,10 @@
 *.рус
 cache/
 
+
+# Личные заметки и скриншоты
+bloknot.md
+img/
+md-instruction.md
+screen-instruction.md
+
